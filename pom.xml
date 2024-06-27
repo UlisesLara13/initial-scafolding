@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>GuessTheNumber</artifactId>
+	<artifactId>initial-scafolding</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>GuessTheNumber</name>
+	<name>initial-scafolding</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
